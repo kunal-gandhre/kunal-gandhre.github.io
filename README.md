@@ -1,4 +1,4 @@
-# Slick Portfolio With Svelte.
+# Slick Portfolio With Kunal.
 
 Vercel-like style portfolio template for developers.
 
